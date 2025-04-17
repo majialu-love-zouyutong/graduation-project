@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.3) (preloaded format=xelatex 2025.4.15)  15 APR 2025 22:32
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.3) (preloaded format=xelatex 2025.4.15)  17 APR 2025 09:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1392,10 +1392,35 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 
 ]
+File: framework.png Graphic file (type bmp)
+<framework.png>
 
+
+Missing character: There is no ₂ in font [lmroman12-regular]:mapping=tex-text;!
 
 
 [2]
+
+
+
+[3]
+
+
+
+[4]
+Underfull \hbox (badness 10000) in alignment at lines 337--337
+[][][][] 
+ []
+
+
+
+
+
+[5]
+
+
+
+[6]
 
 Package fontspec Info: 
 (fontspec)             Could not resolve font "FangSong/BI" (it probably
@@ -1426,7 +1451,7 @@ Package fontspec Info:
 
 
 
-[3
+[7
 
 ] (document.aux)
  ***********
@@ -1442,12 +1467,12 @@ Package logreq Info: Writing requests to 'document.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 43978 strings out of 408672
- 1104778 string characters out of 5752927
- 2195027 words of memory out of 5000000
- 66347 multiletter control sequences out of 15000+600000
- 567034 words of font info for 126 fonts, out of 8000000 for 9000
+ 44133 strings out of 408672
+ 1112723 string characters out of 5752927
+ 2194183 words of memory out of 5000000
+ 66498 multiletter control sequences out of 15000+600000
+ 567050 words of font info for 128 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  103i,18n,111p,1187b,4942s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on document.pdf (3 pages).
+Output written on document.pdf (7 pages).
